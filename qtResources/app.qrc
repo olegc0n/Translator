@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/TranslatorUI.ico</file>
+        <file>fonts/Roboto-Medium.ttf</file>
+        <file>fonts/Roboto-Regular.ttf</file>
+        <file>fonts/Roboto-Bold.ttf</file>
+        <file>fonts/MAVENPRO-REGULAR.TTF</file>
+        <file>qss/custom.qss</file>
+        <file>icons/handle-horizontal.svg</file>
+        <file>icons/handle-vertical.svg</file>
+    </qresource>
+</RCC>

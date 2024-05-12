@@ -1,0 +1,5 @@
+mainwindow_ui.py
+translator.pyproject.user
+.qtcreator/
+__pycache__/
+app_rc.py

@@ -1,0 +1,9 @@
+{
+    "files": [
+        "mainwindow.py",
+        "mainwindow.ui",
+        "qtResources/app.qrc",
+        "taskthread.py",
+        "translate.py"
+    ]
+}
